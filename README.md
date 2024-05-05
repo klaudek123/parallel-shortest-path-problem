@@ -1,1 +1,1 @@
-# parallel-shortest-path-problem
+Projekt zawiera implementacje algorytmu znajdowania najkrótszych ścieżek (Dijkstra, Bellman-Ford) w trzech różnych wersjach: CUDA, OpenMP i sekwencyjnie. Algorytmy te ą używane do znajdowania najkrótszych ścieżek między wierzchołkami w grafie ważonym.
